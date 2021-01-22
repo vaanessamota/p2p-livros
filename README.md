@@ -6,7 +6,7 @@
 
 ## Desenvolvido por [Vanessa Mota](https://gitlab.com/vanessaoliveira2706) & [Fernando de Oliveira](https://gitlab.com/FernandoDeOliveira)
 
-## Aplicação desenvolvida como trabalho final da disciplina de Projeto e Desenvolvimento de Software para o curso de Ciência e Tecnologia
+#### Aplicação desenvolvida como trabalho final da disciplina de Projeto e Desenvolvimento de Software para o curso de Ciência e Tecnologia durante o semestre 2019.1
 
 </div>
 
