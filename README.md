@@ -1,6 +1,6 @@
 <div align="center">
 
-# *Sebum* 
+# *P2PlIVROS* 
 
 # Idealizado por [Vanessa Mota](https://gitlab.com/vanessaoliveira2706)
 
@@ -12,7 +12,7 @@
 - Um aplicativo para facilitar e incentivar o compartilhamento de livro entre os usuários de maneira livre, bem como a fomentar a criação de clubes de leitura.
 - Uma aplicação *Peer-to-Peer* para livros
 
-## Por que do *Sebum*?
+## Por que do *P2PlIVROS*?
 - Evitar a ociosidade da biblioteca pessal
 - Saber quais pessoas possuem os livros desejados
 - Conectar pessoas com afinidades literárias
@@ -28,4 +28,4 @@
 #### [6. Diagramas de Atividade](https://gitlab.com/FernandoDeOliveira/sebum/wikis/Documenta%C3%A7%C3%A3o-1.0#6-diagrama-de-atividade)
 
 ## Frameworks
-### *Sebum* utuliza o [Flutter](https://flutter.dev/docs) e [Firebase](https://firebase.google.com/docs?hl=pt-BR)
+### *P2PlIVROS* utuliza o [Flutter](https://flutter.dev/docs) e [Firebase](https://firebase.google.com/docs?hl=pt-BR)
