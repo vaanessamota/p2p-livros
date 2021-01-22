@@ -20,7 +20,7 @@
 - Conectar pessoas com afinidades literárias
 
 ## Projeto e Desenvolvimento de Software
-### [Documentação 1.0](https://github.com/vaanessamota/p2p-livros/wiki/Documentação-1.0) - [download](uploads/a13694094886014194df0a1a27d0af51/Documentacao_Projeto.docx)
+### [Documentação 1.0](https://github.com/vaanessamota/p2p-livros/wiki/Documentação-1.0)
 #### [1. Descrição do Projeto](https://github.com/vaanessamota/p2p-livros/wiki/Documenta%C3%A7%C3%A3o-1.0#1-descri%C3%A7%C3%A3o-do-projeto)
 #### [2. Diagramas de Caso de Uso](https://github.com/vaanessamota/p2p-livros/wiki/Documenta%C3%A7%C3%A3o-1.0#2-diagramas-de-caso-de-uso)
 #### [2.1 Descrição dos Casos de Uso](https://github.com/vaanessamota/p2p-livros/wiki/Documenta%C3%A7%C3%A3o-1.0#21-descri%C3%A7%C3%A3o-dos-casos-de-uso)
